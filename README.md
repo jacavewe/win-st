@@ -52,6 +52,7 @@ Windows Stuff and Tools
  - Visual Assist
  - VSColorOutput  
  - Power Tools
+ - IntellijDebugger
 
 Программы не для разработки
 ----------
